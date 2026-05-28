@@ -29,13 +29,13 @@ createRoot
                   -> beginWork
                   -> completeWork
             -> commitRoot
-```typescript
+```
 
 useState 更新流程
 
 点击按钮触发：
 
-```typescript
+```ts
 setCount(count + 1)
 ```
 
